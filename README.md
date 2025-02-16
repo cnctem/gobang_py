@@ -1,4 +1,4 @@
-# gobang_py - pyrhon 五子棋
+# gobang_py - python 五子棋
 
 一个python五子棋算法
 
